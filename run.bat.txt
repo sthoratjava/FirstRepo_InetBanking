@@ -1,0 +1,2 @@
+cd C:\Eclipse_Workspace_Fresh\SeleniumProject_Maven
+mvn clean install
